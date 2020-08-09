@@ -7,11 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Unique Health Care Project</h1>
-<a href="/hosmain.jsp"><h2>Hospital Management</h2></a>
-<h2>Doctors Management</h2>
-<h2>Patient Management</h2>
-<h2>Pharmacy Mangement</h2>
-<h2>Dignostic Management</h2>
+	<h2>Hospital Management</h2>
+	<h3>Building Management</h3>
+	<h3>Ambulence Management</h3>
+	<h3>Appratus Management</h3>
+	<h3>Tools Management</h3>
+	<h3>Disposable Management</h3>
 </body>
 </html>
