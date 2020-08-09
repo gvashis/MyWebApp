@@ -9,6 +9,7 @@
 <body>
 <h1>Unique Health Care Project</h1>
 <a href="https://google.com"><h2>Hospital Management</h2></a>
+Go to hospital Management
 <a href="https://youtube.com"><h2>Doctors Management</h2></a>
 <a href="https://linkedin.com"><h2>Patient Management</h2></a>
 <a href="https://oracle.com"><h2>Pharmacy Mangement</h2></a>
