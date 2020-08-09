@@ -8,10 +8,10 @@
 </head>
 <body>
 <h1>Unique Health Care Project</h1>
-<a href="/UHP/ForwardServlet/"><h2>Hospital Management</h2></a>
-<h2>Doctors Management</h2>
-<h2>Patient Management</h2>
-<h2>Pharmacy Mangement</h2>
-<h2>Dignostic Management</h2>
+<a href="https://google.com"><h2>Hospital Management</h2></a>
+<a href="https://youtube.com"><h2>Doctors Management</h2></a>
+<a href="https://linkedin.com"><h2>Patient Management</h2></a>
+<a href="https://oracle.com"><h2>Pharmacy Mangement</h2></a>
+<a href="https://microsoft.com"><h2>Dignostic Management</h2></a>
 </body>
 </html>
