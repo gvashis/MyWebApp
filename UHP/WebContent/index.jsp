@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Unique Health Care Project</h1>
-<a href="/Hospital/hosmain.jsp"><h2>Hospital Management</h2></a>
+<a href="./Hospital/hosmain.jsp"><h2>Hospital Management</h2></a>
 <h2>Doctors Management</h2>
 <h2>Patient Management</h2>
 <h2>Pharmacy Mangement</h2>
