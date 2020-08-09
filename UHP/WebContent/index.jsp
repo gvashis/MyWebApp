@@ -9,6 +9,11 @@
 <body>
 <h1>Unique Health Care Project</h1>
 <h2>Hospital Management</h2>
+	<h3>Building Management</h3>
+	<h3>Ambulence Management</h3>
+	<h3>Appratus Management</h3>
+	<h3>Tools Management</h3>
+	<h3>Disposable Management</h3>
 <h2>Doctors Management</h2>
 <h2>Patient Management</h2>
 <h2>Pharmacy Mangement</h2>
